@@ -14,4 +14,5 @@ public class Probelm112 {
             distancia = in.nextFloat(); velocidad_maxima=((in.nextFloat()*1000)/3600); tiempo=in.nextFloat();
         }
     }
+
 }
